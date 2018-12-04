@@ -3,6 +3,7 @@
 It's an application which shows movies  and allows you choosing and saving your favorite ones.
 
 Hobby Project.
+browse the app at: http://ready-representative.surge.sh/
 
 ## Features
 
