@@ -1,7 +1,7 @@
 # mini-netflix
 Hobby project
-The Movie Database
-It's an application which shows movies and allows you choosing and saving your favorite ones.
+# The Movie Database
+# It's an application which shows movies and allows you choosing and saving your favorite ones.
 
 Hobby Project. browse the app at: http://ready-representative.surge.sh/
 
